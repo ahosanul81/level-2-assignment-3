@@ -5,3 +5,7 @@
 ## 1.1 Register User
     POST https://assignment-3-six-kappa.vercel.app/api/auth/register
 
+## 1.2 Login User
+    POST https://assignment-3-six-kappa.vercel.app/api/auth/login
+
+## 
